@@ -1,7 +1,7 @@
 title: Rohit Jain
 email: rohitjain18005@gmail.com
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/test" # the subpath of your site, e.g. /blog
 url: "https://therohitjain.com"
 
 # Build settings
